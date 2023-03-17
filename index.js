@@ -1,3 +1,5 @@
+// stock market portfolio app by cory martin
+
 const express = require('express');
 const app = express();
 const exphbs = require ('express-handlebars');
